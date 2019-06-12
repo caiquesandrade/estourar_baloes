@@ -5,7 +5,7 @@ function iniciaJogo () {
 	var url = window.location.search;
 	var nivel_jogo = url.replace("?", "");
 
-	alert(nivel_jogo);
+	alert('ESTÁ PREPARADO ? CLIQUE EM OK PARA CONTINUAR');
 
 	var tempo_segundos = 0;
 
